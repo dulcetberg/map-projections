@@ -1,0 +1,21 @@
+n,slug,name,land_points,area_range,median_angle_deg,greenland_exaggeration
+1,gnomonic,Gnomonic,11506,6.71,21.1,
+2,stereographic,Stereographic,19668,3.74,0.0,
+3,orthographic,Orthographic,13123,5.5,36.1,
+4,equirectangular,Equirectangular,28683,7.15,10.1,3.62
+5,azimuthal-equidistant,Azimuthal Equidistant,26769,6.88,11.9,0.66
+6,mercator,Mercator,28205,26.11,0.0,14.73
+7,sinusoidal,Sinusoidal,28683,1.0,35.0,1.0
+8,bonne,Bonne,28683,1.0,17.0,1.0
+9,lambert-conformal-conic,Lambert Conformal Conic,2020,1.07,0.0,
+10,lambert-azimuthal-equal-area,Lambert Azimuthal Equal-Area,1915,1.0,0.9,
+11,transverse-mercator,Transverse Mercator (UTM),220,1.0,0.0,
+12,albers,Albers Equal-Area Conic,2020,1.0,0.8,
+13,mollweide,Mollweide,28683,1.0,25.3,1.0
+14,polyconic,Polyconic,4604,1.17,0.9,
+15,gall-peters,Gall–Peters,28683,1.0,32.0,1.0
+16,van-der-grinten,Van der Grinten,28683,17.03,6.8,6.26
+17,winkel-tripel,Winkel Tripel,28683,3.88,15.7,2.44
+18,goode-homolosine,Goode Homolosine,28683,1.0,10.8,1.0
+19,robinson,Robinson,28683,2.64,13.9,1.9
+20,equal-earth,Equal Earth,28683,1.0,20.2,1.0
